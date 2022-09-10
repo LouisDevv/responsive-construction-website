@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="140px"
+   height="50px"
+   viewBox="0 0 102 20"
+   version="1.1"
+   id="svg196"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="drawing.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview198"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.0922415"
+     inkscape:cx="295.72215"
+     inkscape:cy="-55.848456"
+     inkscape:window-width="1366"
+     inkscape:window-height="745"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs193">
+    <rect
+       x="279.70007"
+       y="267.79794"
+       width="317.23755"
+       height="103.45698"
+       id="rect668" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#fff;stroke-width:0.105833"
+       id="rect362"
+       width="10"
+       height="10"
+       x="10.000002"
+       y="0" />
+    <rect
+       style="fill:#ff6600;stroke-width:0.105833"
+       id="rect362-8-9"
+       width="10"
+       height="10"
+       x="20.000002"
+       y="0" />
+    <rect
+       style="fill:#ff6600;stroke-width:0.105833"
+       id="rect362-8-9-8"
+       width="10"
+       height="10"
+       x="10.000002"
+       y="10" />
+    <rect
+       style="fill:#fff;stroke-width:0.105833"
+       id="rect362-1"
+       width="10"
+       height="10"
+       x="0"
+       y="10" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-42.870987,-71.989529)"
+       id="text666"
+       style="font-size:74.6667px;white-space:pre;shape-inside:url(#rect668);display:inline;fill:#fff"><tspan
+         x="279.69922"
+         y="335.91952"
+         id="tspan900"><tspan
+           style="font-weight:bold;font-family:Gisha;-inkscape-font-specification:'Gisha Bold'"
+           id="tspan898">BUILD</tspan></tspan></text>
+  </g>
+</svg>
