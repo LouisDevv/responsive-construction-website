@@ -376,7 +376,6 @@ button {
 }
 
 .nav-list{
-  margin-right: 2rem;
   display: flex;
   flex-direction: row;
   gap: 2rem;
@@ -392,6 +391,7 @@ button {
 
 .nav-links{
   color: var(--body-color);
+  font-weight: var(--font-medium);
 }
 
 .nav-list a:hover{
@@ -778,12 +778,36 @@ button {
 /*========= Footer ==========*/
 footer{
   background-color: var(--text-color);
-  padding: 5rem 0;
+  padding: 2rem 0;
+  color: var(--body-color);
+  text-align: center;
 }
+
 
 footer p{
   text-align: center;
-  color: var(--body-color);
+  color: var(--text-color-light);
+}
+
+.logo-cr{
+  margin-bottom: var(--mb-2);
+}
+
+.footer-links > ul{
+  display: flex;
+  justify-content: center;
+
+}
+
+.footer-links li{
+  cursor: pointer;
+  padding-inline: 2rem;
+  text-decoration: underline;
+  font-weight: var(--font-medium);
+}
+
+.footer-links li:not(:last-child){
+  border-right: 1px solid var(--body-color);
 }
 
 @media (min-width: 48em) {
@@ -945,7 +969,7 @@ footer p{
     /*========== ACHIEVEMENTS ==========*/
  
     #parallax-wrapper{
-      background-size: 130%;
+      background-size: 140%;
     }
 
     /*========== Slider/Testimonial ==========*/

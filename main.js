@@ -17,6 +17,13 @@ function myMenu(){
    
 }
 
+
+let links = document.getElementsByClassName("nav-links");
+
+
+for (var i = 0; i < links.length; i++) {
+    links[i].addEventListener('click', myMenu, false);
+}
 // Achievement parallax
 
 window.addEventListener("scroll", function(){
