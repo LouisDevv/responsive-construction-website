@@ -383,6 +383,7 @@ button {
 
 .primary-navigation[data-visible]{
   right: 0;
+z-index: 100;
 }
 
 .mobile-nav-toggle{
